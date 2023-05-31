@@ -3,7 +3,7 @@
 ## Paper
 
 <b>Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</b> <br/>
-[Yixiao Zhang](https://scholar.google.com/citations?user=lU3wroMAAAAJ), [Xinyi Li](), [Huimiao Chen](), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Yaoyao Liu](https://www.cs.jhu.edu/~yyliu/), and [Zongwei Zhou](https://www.zongweiz.com/) <br/>
+[Yixiao Zhang](https://scholar.google.com/citations?user=lU3wroMAAAAJ), [Xinyi Li](https://www.linkedin.com/in/lixinyi808/), [Huimiao Chen](https://scholar.google.com/citations?hl=en&user=o-F4kBgAAAAJ), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Yaoyao Liu](https://www.cs.jhu.edu/~yyliu/), and [Zongwei Zhou](https://www.zongweiz.com/) <br/>
 Johns Hopkins University  <br/>
 MICCAI 2023 (early accept) <br/>
 [paper]() | [code](https://github.com/MrGiovanni/ContinualLearning)
