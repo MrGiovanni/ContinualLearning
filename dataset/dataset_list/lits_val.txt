@@ -1,0 +1,16 @@
+04_LiTS/img/liver_111.nii.gz	04_LiTS/label/liver_111.nii.gz
+04_LiTS/img/liver_121.nii.gz	04_LiTS/label/liver_121.nii.gz
+04_LiTS/img/liver_124.nii.gz	04_LiTS/label/liver_124.nii.gz
+04_LiTS/img/liver_128.nii.gz	04_LiTS/label/liver_128.nii.gz
+04_LiTS/img/liver_16.nii.gz	04_LiTS/label/liver_16.nii.gz
+04_LiTS/img/liver_20.nii.gz	04_LiTS/label/liver_20.nii.gz
+04_LiTS/img/liver_21.nii.gz	04_LiTS/label/liver_21.nii.gz
+04_LiTS/img/liver_37.nii.gz	04_LiTS/label/liver_37.nii.gz
+04_LiTS/img/liver_38.nii.gz	04_LiTS/label/liver_38.nii.gz
+04_LiTS/img/liver_43.nii.gz	04_LiTS/label/liver_43.nii.gz
+04_LiTS/img/liver_47.nii.gz	04_LiTS/label/liver_47.nii.gz
+04_LiTS/img/liver_48.nii.gz	04_LiTS/label/liver_48.nii.gz
+04_LiTS/img/liver_61.nii.gz	04_LiTS/label/liver_61.nii.gz
+04_LiTS/img/liver_76.nii.gz	04_LiTS/label/liver_76.nii.gz
+04_LiTS/img/liver_91.nii.gz	04_LiTS/label/liver_91.nii.gz
+04_LiTS/img/liver_98.nii.gz	04_LiTS/label/liver_98.nii.gz

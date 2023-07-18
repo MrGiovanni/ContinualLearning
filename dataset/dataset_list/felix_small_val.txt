@@ -1,0 +1,50 @@
+16_FELIX_lowres/img_small/FELIX0160_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0160_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0187_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0187_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0203_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0203_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0212_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0212_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0230_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0230_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0259_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0259_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0322_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0322_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0354_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0354_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0385_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0385_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0464_ARTERIAL.nii	16_FELIX_lowres/label_small/FELIX0464_ARTERIAL.nii
+16_FELIX_lowres/img_small/FELIX0523_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0523_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX0602_ARTERIAL.nii	16_FELIX_lowres/label_small/FELIX0602_ARTERIAL.nii
+16_FELIX_lowres/img_small/FELIX0646_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX0646_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX070_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX070_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX094_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX094_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX1028_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1028_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX1029_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1029_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX1030_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1030_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX1033_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1033_ARTERIAL.nii.gz
+16_FELIX_lowres/img_small/FELIX1067_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1067_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1109_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1109_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1156_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1156_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1190_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1190_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1197_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1197_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1215_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1215_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1243_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1243_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1251_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1251_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX1296_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX1296_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5037_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5037_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5039_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5039_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5140_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5140_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5268_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5268_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5348_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5348_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5394_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5394_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5422_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5422_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5468_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5468_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5501_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5501_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5541_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5541_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5554_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5554_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5578_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5578_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX5810_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX5810_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7037_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7037_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7085_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7085_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7195_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7195_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7241_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7241_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7372_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7372_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7387_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7387_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7462_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7462_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7486_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7486_ARTERIAL.nii.gz
+# 16_FELIX_lowres/img_small/FELIX7544_ARTERIAL.nii.gz	16_FELIX_lowres/label_small/FELIX7544_ARTERIAL.nii.gz

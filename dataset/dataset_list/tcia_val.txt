@@ -1,0 +1,4 @@
+02_TCIA_Pancreas-CT/img/PANCREAS_0016.nii.gz	02_TCIA_Pancreas-CT/multiorgan_label/label0016.nii.gz
+02_TCIA_Pancreas-CT/img/PANCREAS_0018.nii.gz	02_TCIA_Pancreas-CT/multiorgan_label/label0018.nii.gz
+02_TCIA_Pancreas-CT/img/PANCREAS_0029.nii.gz	02_TCIA_Pancreas-CT/multiorgan_label/label0029.nii.gz
+02_TCIA_Pancreas-CT/img/PANCREAS_0043.nii.gz	02_TCIA_Pancreas-CT/multiorgan_label/label0043.nii.gz

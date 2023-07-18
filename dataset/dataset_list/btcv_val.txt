@@ -1,0 +1,4 @@
+01_Multi-Atlas_Labeling/img/img0010.nii.gz	01_Multi-Atlas_Labeling/label/label0010.nii.gz
+01_Multi-Atlas_Labeling/img/img0036.nii.gz	01_Multi-Atlas_Labeling/label/label0036.nii.gz
+01_Multi-Atlas_Labeling/img/img0066.nii.gz	01_Multi-Atlas_Labeling/label/label0066.nii.gz
+01_Multi-Atlas_Labeling/img/img0077.nii.gz	01_Multi-Atlas_Labeling/label/label0077.nii.gz
