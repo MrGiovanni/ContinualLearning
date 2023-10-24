@@ -361,7 +361,7 @@ def process(args):
 
     scheduler = LinearWarmupCosineAnnealingLR(optimizer, warmup_epochs=args.warmup_epoch, max_epochs=args.max_epoch)
 
-    # loal old model
+    # load old model
     if args.old_model:
         checkpoint = torch.load(args.old_model)
         if args.dist:
