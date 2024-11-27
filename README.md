@@ -69,7 +69,7 @@ python predict.py \
     --out_nonlinear softmax \
     --out_channels 38
 ```
-You would need to combine the predicted segmentation on some organs togethor with ground truth segmentation on other organs to generate pseudo labels for continual learning. Please take scripts in prepare_pseudo_dataset.ipynb as examples.
+You would need to combine the predicted segmentation on some organs together with ground truth segmentation on other organs to generate pseudo labels for continual learning. Please take scripts in prepare_pseudo_dataset.ipynb as examples.
 
 ## 5. Continual learning
 For the proposed model, in continual learning stages, the same train.py is used to train the model but with different settings.
